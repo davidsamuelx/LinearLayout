@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Chance</string>
+    <string name="name">دافيد صموئيل</string>
+    <string name="job">مبرمج اندويد</string>
+    <string name="location">UK</string>
+    <string name="reviews">(150 مراجعات)</string>
+    <string name="rate">4.5</string>
+    <string name="time">3 ساعات</string>
+    <string name="nationality">مصري</string>
+    <string name="created_date">منذ 5 ايام</string>
+</resources>

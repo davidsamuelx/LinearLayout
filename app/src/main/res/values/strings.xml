@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Chance</string>
+    <string name="name">David Samuel</string>
+    <string name="job">Android Developer</string>
+    <string name="location">UK</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="rate">4.5</string>
+    <string name="time">3 hr</string>
+    <string name="nationality">Egyptian</string>
+    <string name="created_date">5 Days ago</string>
+</resources>
